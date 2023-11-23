@@ -1,4 +1,4 @@
-<h1 align="center">Buenass 👋 soy: Diego Guizán López</h1>
+<h1 align="center">Buenass 👋 soy Diego Guizán López y este es mi perfil de GitHub</h1>
 <h3 align="center">Buenas como mi nombre indica soy Diego Guizán y bienvenido a mi perfil de GitHub, aquí subiré numerosos proyectos donde la gente puede sacar ideas o estudios que voy realizando por si otra gente quiere aprender lo mismo, espero que sea de ayuda y mi contactos están más abajo, venga a disfrutar 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoguizanlopez&label=Profile%20views&color=0e75b6&style=flat" alt="diegoguizanlopez" /> </p>
