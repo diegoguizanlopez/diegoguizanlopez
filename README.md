@@ -7,11 +7,11 @@
 
 - 📝 Estoy aprendiendo **IA y Big Data**
 
-- 📫 Contacto: **diegoguizanlopez@gmail.com**
+- 📫 EMail: **diegoguizanlopez@gmail.com**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego guizán lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego guizán lópez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-guiz%C3%A1n-l%C3%B3pez-a84bb727a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego guizán lópez" height="30" width="40" /></a>
 <a href="https://instagram.com/diegogl_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegogl_03" height="30" width="40" /></a>
 </p>
 
